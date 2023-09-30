@@ -12,4 +12,4 @@ Have a c++ compiler installed and configured.
 g++ -O3 -o hello hello.cpp -I. -Ilib -Lbuild -lpvzemu; ./hello > hello.json
 ```
 
-Note: This is a Windows powershell command tested with `gcc.exe (Rev6, Built by MSYS2 project) 13.1.0`.
+Note: This is a Windows powershell command tested with `g++.exe (Rev6, Built by MSYS2 project) 13.1.0`.
